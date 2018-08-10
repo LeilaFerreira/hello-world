@@ -1,4 +1,4 @@
-# hello-world
+# Hello-World
 
 Olá Pessoas!
 Sou uma pseudo-desenvolvedora e estou aprendendo a programar para alcançar a condição de ser uma desenvolvedora de verdade rsrs...., 
